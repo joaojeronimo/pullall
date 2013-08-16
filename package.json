@@ -1,0 +1,21 @@
+{
+  "name": "pullall",
+  "version": "0.0.1",
+  "description": "Update a group development env of node modules",
+  "bin": "./pullall",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CrowdProcess/pullall"
+  },
+  "keywords": [
+    "git",
+    "pull",
+    "all",
+    "pullall"
+  ],
+  "author": "Igor Soarez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CrowdProcess/pullall/issues"
+  }
+}
